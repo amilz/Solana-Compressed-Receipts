@@ -16,3 +16,5 @@ Feel free to contribute!
 - Run `ts-node src/app`
 
 Example output: [https://www.crossmint.com/tokens/sol:C4Uh1SaegzihN99VZqzBUrXmFrx5Ug97QhdG5rKs7WQ2](https://www.crossmint.com/tokens/sol:C4Uh1SaegzihN99VZqzBUrXmFrx5Ug97QhdG5rKs7WQ2)
+
+![Sample](./sample.png)
