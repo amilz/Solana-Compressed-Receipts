@@ -1,9 +1,10 @@
 # Solana Compressed NFTs Receipts
-This is a simple example of how to generate a compressed NFT receipt using [CrossMint](./src/api/crossmint.ts) and [ShadowDrive](./src/api//shadow.ts).
-We also include an [example implementation](./src/examples/solana-pay/) to integration with Solana Pay 
+This is a simple example of how to generate a compressed NFT receipt using Cavnas, [**CrossMint**](./src/api/crossmint.ts) and [**ShadowDrive**](./src/api//shadow.ts).
+
+I have also included an [example implementation](./src/examples/solana-pay/) to integration with **Solana Pay**.
 
 Note: this is working, but still in progress...use at your own risk. 
-I probably won't be actively maintaining this--just wanted to proove the concept.
+I probably won't be actively maintaining this--just wanted to demonstrate the concept.
 Feel free to contribute!
 
 ## Local Deployment
