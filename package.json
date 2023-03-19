@@ -1,0 +1,20 @@
+{
+  "name": "solana-compressed-receipt",
+  "version": "1.0.0",
+  "description": "create receipts using Solana Compressed NFTs and CrossMint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "amilz <https://github.com/amilz>",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@shadow-drive/sdk": "^3.3.0",
+    "@solana/pay": "^0.2.5",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.74.0",
+    "canvas": "^2.11.0"
+  }  
+}
